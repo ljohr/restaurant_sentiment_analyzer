@@ -55,3 +55,5 @@ Also includes python scripts used to preprocess our data
 ## JSON Data
 Contains all filtered JSON files (filtered with scripts in filter programs) used for our classifiers
 
+![NLP Project Poster](https://github.com/ljohr/restaurant_sentiment_analyzer/assets/46297075/2fb532f5-3255-4380-bfa3-d609e4bb05a8)
+
